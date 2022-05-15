@@ -1,3 +1,5 @@
+/* eslint-disable no-unused-vars */
+/* eslint-disable react/function-component-definition */
 import React from "react";
 
 const possibleSizes = ["XS", "S", "M", "L", "XL", "XXL"];
